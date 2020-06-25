@@ -1,0 +1,4 @@
+include 'sub-module-1','sub-module-2','sub-module-3'
+rootProject.name = 'GradleWebDependenciesExample'
+include 'sub-module-1'
+
